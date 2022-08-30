@@ -55,21 +55,21 @@ global.snh = 'https://chat.whatsapp.com/EXZDlDV87ZwEbLWILkcF6u'
 global.pdana = '-'
 global.povo = '-'
 global.pgopay = '-'
-global.ppulsa = '087752078797'
-global.ppulsa2 = '087760550924'
+global.ppulsa = '6287841959988'
+global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6287760550924'
-global.nomorown = '6287760550924'
-global.namebot = 'Sad-Botz'
-global.nameown = 'Papa-Chan'
+global.nomorbot = '6287841959988'
+global.nomorown = '6281344950407'
+global.namebot = 'Leon-Botz'
+global.nameown = 'Adi-Ganz'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6287752078797', 'Sewa Bot', true],
-  ['6287760550924', 'Owner Gweh', true] //Ganti jd nomormu sama Namamu
+  ['6287841959988', 'Sewa Bot', true],
+  ['6281344950407', 'Owner Gweh', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -114,17 +114,17 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Sad-BotzMd 」' //Main Watermark
+global.wm = '                「 Leon-BotzMd 」' //Main Watermark
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Papa-Chan ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Papa-Chan '
+global.wm3 = '⫹⫺ Adi-Offc '
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By Papa-Chan`
-global.author = '                「 Sad Multidevice あ⁩ 」'
+global.titlebot = `⫹⫺ WhatsApp Bot | By Adi-Offc`
+global.author = '                「 Leon Multidevice あ⁩ 」'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://i.ibb.co/tB5KQdZ/20220710-135847.jpg' //Main Thumbnail
+global.thumb = 'https://telegra.ph/file/4b9ffeb92107efa98d0f3.jpg' //Main Thumbnail
 global.imagebot = 'https://i.pinimg.com/originals/9b/3e/70/9b3e70d91a7db26d09ef1884049a3e71.jpg'
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
 global.thumbs = ['https://hardianto.xyz/api/anime/random?sfw=wallpaper&apikey=hardianto']
