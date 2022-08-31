@@ -22,9 +22,9 @@ let handler = async (m, { conn, usedPrefix, isAdmin, isOwner, text }) => {
 	} else conn.sendButton(m.chat, `Silahkan ketik ${usedPrefix}menu`, '', 1, ['Menu', `${usedPrefix}menu`], m)
 }
 handler.help = ['bot [on/off]']
-handler.tags = ['group']
+handler.tags = ['owner']
 handler.command = /^(bot)$/i
 
-handler.admin = true
+handler.owner = true
 
 export default handler
