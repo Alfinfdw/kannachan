@@ -45,7 +45,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/cekilgans'
+global.sig = 'https://www.instagram.com/p/ChwWLNErbZA/'
 global.sgh = 'https://cekilgans.github.io'
 global.sgc = 'https://chat.whatsapp.com/EXZDlDV87ZwEbLWILkcF6u'
 global.sdc = 'https://chat.whatsapp.com/CF4jm8T9FVx5MnD037B1nN'
@@ -124,7 +124,7 @@ global.author = '                「 Leon Multidevice あ⁩ 」'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/4b9ffeb92107efa98d0f3.jpg' //Main Thumbnail
+global.thumb = 'https://telegra.ph/file/8dc4d6b949c669ed4d2f7.jpg' //Main Thumbnail
 global.imagebot = 'https://i.pinimg.com/originals/9b/3e/70/9b3e70d91a7db26d09ef1884049a3e71.jpg'
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
 global.thumbs = ['https://hardianto.xyz/api/anime/random?sfw=wallpaper&apikey=hardianto']
