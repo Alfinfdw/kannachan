@@ -60,8 +60,8 @@ global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6287841959988'
-global.nomorown = '6281344950407'
+global.nomorbot = '6281344950407'
+global.nomorown = '6287841959988'
 global.namebot = 'Leon-Botz'
 global.nameown = 'Adi-Ganz'
 
@@ -124,7 +124,7 @@ global.author = '                「 Leon Multidevice あ⁩ 」'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/abe6f772d5afeccc32d74.jpg' //Main Thumbnail
+global.thumb = 'https://telegra.ph/file/560478fb2360a46d720dc.jpg' //Main Thumbnail
 global.imagebot = 'https://i.pinimg.com/originals/9b/3e/70/9b3e70d91a7db26d09ef1884049a3e71.jpg'
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
 global.thumbs = ['https://hardianto.xyz/api/anime/random?sfw=wallpaper&apikey=hardianto']
@@ -188,8 +188,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'Cekil-XD'
-global.stickauth = `By ©CekilXD`
+global.stickpack = 'LeonBotz-MD'
+global.stickauth = `By ©ADI-OFFC`
 
 global.multiplier = 38 // The higher, The harder levelup
 
