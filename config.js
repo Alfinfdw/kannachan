@@ -124,9 +124,9 @@ global.author = '                「 𝙻𝙾𝙻𝙸 Multidevice あ⁩ 」'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/0606fb57a585711101d02.jpg' //Main Thumbnail
+global.thumb = 'https://telegra.ph/file/a771eda147689c64caee0.jpg' //Main Thumbnail
 global.imagebot = 'https://i.pinimg.com/originals/9b/3e/70/9b3e70d91a7db26d09ef1884049a3e71.jpg'
-global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
+global.giflogo = 'https://telegra.ph/file/8641a3df0efec918732fd.mp4'
 global.thumbs = ['https://hardianto.xyz/api/anime/random?sfw=wallpaper&apikey=hardianto']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
