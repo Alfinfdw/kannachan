@@ -124,7 +124,7 @@ global.author = '                「 𝙻𝙾𝙻𝙸 Multidevice あ⁩ 」'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/a771eda147689c64caee0.jpg' //Main Thumbnail
+global.thumb = 'https://telegra.ph/file/c0713235ffdf80e433e71.jpg' //Main Thumbnail
 global.imagebot = 'https://i.pinimg.com/originals/9b/3e/70/9b3e70d91a7db26d09ef1884049a3e71.jpg'
 global.giflogo = 'https://telegra.ph/file/8641a3df0efec918732fd.mp4'
 global.thumbs = ['https://hardianto.xyz/api/anime/random?sfw=wallpaper&apikey=hardianto']
@@ -188,7 +188,7 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'LeonBotz-MD'
+global.stickpack = '𝙻𝙾𝙻𝙸-𝙱𝙾𝚃𝚉𝙼𝙳'
 global.stickauth = `By ©ADI-OFFC`
 
 global.multiplier = 38 // The higher, The harder levelup
