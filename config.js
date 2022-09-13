@@ -62,7 +62,7 @@ global.psaweria = '-'
 /*============== NOMOR ==============*/
 global.nomorbot = '6281344950407'
 global.nomorown = '6287841959988'
-global.namebot = '𝙻𝙾𝙻𝙸-𝙱𝙾𝚃𝙼𝙳'
+global.namebot = '𝘈𝘔𝘌𝘓-𝘉𝘖𝘛'
 global.nameown = '𝙰𝙳𝙸𝙾𝙵𝙲-𝙾𝚆𝙽𝙴𝚁'
 
 
@@ -114,19 +114,19 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 𝙻𝙾𝙻𝙸-𝙱𝙾𝚃𝚉𝙼𝙳 」' //Main Watermark
+global.wm = '                「 𝘈𝘔𝘌𝘓-𝘉𝘖𝘛𝘔𝘋 」' //Main Watermark
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Papa-Chan ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ 𝙻𝙾𝙻𝙸-𝙱𝙾𝚃𝚉 '
+global.wm3 = '⫹⫺ 𝘈𝘔𝘌𝘓-𝘉𝘖𝘛 '
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `⫹⫺ WhatsApp Bot | 𝙱𝚈:𝙰𝙳𝙸𝙾𝙵𝙵𝙲`
-global.author = '                「 𝙻𝙾𝙻𝙸 Multidevice あ⁩ 」'
+global.author = '                「 𝘈𝘔𝘌𝘓-𝘊𝘏𝘈𝘕あ⁩ 」'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/c0713235ffdf80e433e71.jpg' //Main Thumbnail
+global.thumb = 'https://telegra.ph/file/4be644326a26ff942d4a9.jpg' //Main Thumbnail
 global.imagebot = 'https://i.pinimg.com/originals/9b/3e/70/9b3e70d91a7db26d09ef1884049a3e71.jpg'
-global.giflogo = 'https://telegra.ph/file/8641a3df0efec918732fd.mp4'
+global.giflogo = 'https://telegra.ph/file/d4c6e80ac53eaa34e7068.mp4'
 global.thumbs = ['https://hardianto.xyz/api/anime/random?sfw=wallpaper&apikey=hardianto']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
@@ -188,7 +188,7 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = '𝙻𝙾𝙻𝙸-𝙱𝙾𝚃𝚉𝙼𝙳'
+global.stickpack = '𝘈𝘔𝘌𝘓-𝘉𝘖𝘛'
 global.stickauth = `By ©ADI-OFFC`
 
 global.multiplier = 38 // The higher, The harder levelup
