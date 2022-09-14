@@ -61,7 +61,7 @@ global.psaweria = '-'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6287841959988'
-global.nomorown = '6287841959988'
+global.nomorown = '6281344950407'
 global.namebot = '𝘈𝘋𝘐 𝘉𝘖𝘛-𝘔𝘋'
 global.nameown = '𝙰𝙳𝙸𝙾𝙵𝙲-𝙾𝚆𝙽𝙴𝚁'
 
