@@ -60,9 +60,9 @@ global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281344950407'
+global.nomorbot = '6287841959988'
 global.nomorown = '6287841959988'
-global.namebot = '𝘈𝘔𝘌𝘓-𝘉𝘖𝘛'
+global.namebot = '𝘈𝘋𝘐 𝘉𝘖𝘛-𝘔𝘋'
 global.nameown = '𝙰𝙳𝙸𝙾𝙵𝙲-𝙾𝚆𝙽𝙴𝚁'
 
 
@@ -114,13 +114,13 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 𝘈𝘔𝘌𝘓-𝘉𝘖𝘛𝘔𝘋 」' //Main Watermark
+global.wm = '                「 𝘈𝘋𝘐-𝘉𝘖𝘛𝘔𝘋 」' //Main Watermark
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Papa-Chan ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ 𝘈𝘔𝘌𝘓-𝘉𝘖𝘛 '
+global.wm3 = '⫹⫺ 𝘈𝘋𝘐-𝘉𝘖𝘛 '
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `⫹⫺ WhatsApp Bot | 𝙱𝚈:𝙰𝙳𝙸𝙾𝙵𝙵𝙲`
-global.author = '                「 𝘈𝘔𝘌𝘓-𝘊𝘏𝘈𝘕あ⁩ 」'
+global.author = '                「 𝘈𝘋𝘐-𝘉𝘖𝘛𝘔𝘋あ⁩ 」'
 
 
 /*============== LOGO ==============*/
@@ -188,7 +188,7 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = '𝘈𝘔𝘌𝘓-𝘉𝘖𝘛'
+global.stickpack = '𝘈𝘋𝘐-𝘉𝘖𝘛'
 global.stickauth = `By ©ADI-OFFC`
 
 global.multiplier = 38 // The higher, The harder levelup
