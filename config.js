@@ -62,8 +62,8 @@ global.psaweria = '-'
 /*============== NOMOR ==============*/
 global.nomorbot = '6287841959988'
 global.nomorown = '6281344950407'
-global.namebot = '𝘈𝘋𝘐 𝘉𝘖𝘛-𝘔𝘋'
-global.nameown = '𝙰𝙳𝙸𝙾𝙵𝙲-𝙾𝚆𝙽𝙴𝚁'
+global.namebot = '𝑨𝒅𝒊𝑩𝒐𝒕-𝑴𝒅'
+global.nameown = '𝑨𝒅𝒊𝒈𝒂𝒏𝒛-𝑶𝒘𝒏𝒆𝒓𝑩𝒐𝒕'
 
 
 /*============== STAFF ==============*/
@@ -114,17 +114,17 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 𝘈𝘋𝘐-𝘉𝘖𝘛𝘔𝘋 」' //Main Watermark
+global.wm = '                「 𝑨𝑫𝑰𝑩𝑶𝑻-𝑴𝑫 」' //Main Watermark
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Papa-Chan ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ 𝘈𝘋𝘐-𝘉𝘖𝘛 '
+global.wm3 = '⫹⫺ 𝑨𝒅𝒊𝑩𝒐𝒕-𝑴𝑫'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | 𝙱𝚈:𝙰𝙳𝙸𝙾𝙵𝙵𝙲`
-global.author = '                「 𝘈𝘋𝘐-𝘉𝘖𝘛𝘔𝘋あ⁩ 」'
+global.titlebot = `⫹⫺ WhatsApp Bot | 𝑩𝒚 𝑨𝒅𝒊𝑮𝒂𝒏𝒛-𝑶𝒇𝒄`
+global.author = '                「 𝑨𝑫𝑰𝑩𝑶𝑻-𝑴𝑫あ⁩ 」'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/9ebdc360c133b7464dc2c.jpg' //Main Thumbnail
+global.thumb = 'https://telegra.ph/file/8681fe8d922eabe03a46b.jpg' //Main Thumbnail
 global.imagebot = 'https://i.pinimg.com/originals/9b/3e/70/9b3e70d91a7db26d09ef1884049a3e71.jpg'
 global.giflogo = 'https://telegra.ph/file/d4c6e80ac53eaa34e7068.mp4'
 global.thumbs = ['https://hardianto.xyz/api/anime/random?sfw=wallpaper&apikey=hardianto']
