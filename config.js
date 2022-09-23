@@ -60,10 +60,10 @@ global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6287841959988'
-global.nomorown = '6281344950407'
-global.namebot = '𝑨𝒅𝒊𝑩𝒐𝒕-𝑴𝒅'
-global.nameown = '𝑨𝒅𝒊𝒈𝒂𝒏𝒛-𝑶𝒘𝒏𝒆𝒓𝑩𝒐𝒕'
+global.nomorbot = '6285852939370'
+global.nomorown = '6282223011829'
+global.namebot = 'SANTRI-MD'
+global.nameown = 'Adminsantri'
 
 
 /*============== STAFF ==============*/
