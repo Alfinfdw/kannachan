@@ -55,7 +55,7 @@ global.snh = 'https://chat.whatsapp.com/EXZDlDV87ZwEbLWILkcF6u'
 global.pdana = '-'
 global.povo = '-'
 global.pgopay = '-'
-global.ppulsa = '6287841959988'
+global.ppulsa = '6282223011829'
 global.ppulsa2 = '-'
 global.psaweria = '-'
 
@@ -68,8 +68,8 @@ global.nameown = 'Adminsantri'
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6287841959988', 'Sewa Bot', true],
-  ['6281344950407', 'Owner Gweh', true] //Ganti jd nomormu sama Namamu
+  ['628223011839', 'Sewa Bot', true],
+  ['628223011829', 'Owner Gweh', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
