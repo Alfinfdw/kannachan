@@ -62,13 +62,13 @@ global.psaweria = '-'
 /*============== NOMOR ==============*/
 global.nomorbot = '6285852939370'
 global.nomorown = '6282223011829'
-global.namebot = 'SANTRI-MD'
-global.nameown = 'Adminsantri'
+global.namebot = 'Botz✿ᴳᴵᴿᴸ☂'
+global.nameown = 'AL Surabaya'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['628223011839', 'Sewa Bot', true],
+  ['628223011829', 'Sewa Bot', true],
   ['628223011829', 'Owner Gweh', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
