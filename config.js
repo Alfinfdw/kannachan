@@ -55,15 +55,15 @@ global.snh = 'https://chat.whatsapp.com/EXZDlDV87ZwEbLWILkcF6u'
 global.pdana = '-'
 global.povo = '-'
 global.pgopay = '-'
-global.ppulsa = '6287841959988'
+global.ppulsa = '6282223011829'
 global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6285852939370'
 global.nomorown = '6282223011829'
-global.namebot = '𝑨𝒅𝒊𝑩𝒐𝒕-𝑴𝒅'
-global.nameown = '𝑨𝒅𝒊𝒈𝒂𝒏𝒛-𝑶𝒘𝒏𝒆𝒓𝑩𝒐𝒕'
+global.namebot = 'Botz-niluh'
+global.nameown = 'AL Surabaya'
 
 
 /*============== STAFF ==============*/
