@@ -1,4 +1,4 @@
- // S C R I P T  O R I  B Y  @BochilGaming 🔭
+// S C R I P T  O R I  B Y  @BochilGaming 🔭
 // M A D E  B Y  Letta - Sama 🐰  
 // Credits, jangan dihapus atau diubah!
 
@@ -68,7 +68,7 @@ global.nameown = 'AL Surabaya'
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282223011829', 'Sewa Bot', true],
+  ['6282223011829', 'Al Surabaya', true],
   ['6282223011829', 'AL Surabaya', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
