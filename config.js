@@ -55,20 +55,20 @@ global.snh = 'https://chat.whatsapp.com/EXZDlDV87ZwEbLWILkcF6u'
 global.pdana = '-'
 global.povo = '-'
 global.pgopay = '-'
-global.ppulsa = '6287841959988'
-global.ppulsa2 = '-'
+global.ppulsa = '6282223011829'
+global.ppulsa2 = '6282223011829'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6285852939370'
 global.nomorown = '6282223011829'
-global.namebot = 'alvinbotz-𝑴𝒅'
-global.nameown = 'Alvinnn-𝑶𝒘𝒏𝒆𝒓𝑩𝒐𝒕'
+global.namebot = 'BotzNiLuh✿ᴳᴵᴿᴸ☂'
+global.nameown = 'Alvinnn-Surabaya'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285852939370', 'Sewa Bot', true],
+  ['4915256954581', 'Sewa Bot', true],
   ['6282223011829', 'Owner Gweh', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
