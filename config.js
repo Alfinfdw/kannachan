@@ -1,4 +1,4 @@
-// S C R I P T  O R I  B Y  @BochilGaming 🔭
+ // S C R I P T  O R I  B Y  @BochilGaming 🔭
 // M A D E  B Y  Letta - Sama 🐰  
 // Credits, jangan dihapus atau diubah!
 
@@ -55,21 +55,21 @@ global.snh = 'https://chat.whatsapp.com/EXZDlDV87ZwEbLWILkcF6u'
 global.pdana = '-'
 global.povo = '-'
 global.pgopay = '-'
-global.ppulsa = '6282223011829'
+global.ppulsa = '6287841959988'
 global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6285852939370'
 global.nomorown = '6282223011829'
-global.namebot = 'BotzNiLuh'
-global.nameown = 'AL Surabaya'
+global.namebot = '𝑨𝒅𝒊𝑩𝒐𝒕-𝑴𝒅'
+global.nameown = '𝑨𝒅𝒊𝒈𝒂𝒏𝒛-𝑶𝒘𝒏𝒆𝒓𝑩𝒐𝒕'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['628223011829', 'AL Surabaya', true],
-  ['628223011829', 'AL Surabaya', true] //Ganti jd nomormu sama Namamu
+  ['6282223011829', 'Sewa Bot', true],
+  ['6282223011829', 'AL Surabaya', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
