@@ -62,7 +62,7 @@ global.psaweria = '-'
 /*============== NOMOR ==============*/
 global.nomorbot = '6285852939370'
 global.nomorown = '6282223011829'
-global.namebot = 'BotzNiLuh✿ᴳᴵᴿᴸ☂'
+global.namebot = 'BotzNiLuh'
 global.nameown = 'AL Surabaya'
 
 
