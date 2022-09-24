@@ -62,13 +62,13 @@ global.psaweria = '-'
 /*============== NOMOR ==============*/
 global.nomorbot = '6285852939370'
 global.nomorown = '6282223011829'
-global.namebot = '𝑨𝒅𝒊𝑩𝒐𝒕-𝑴𝒅'
-global.nameown = '𝑨𝒅𝒊𝒈𝒂𝒏𝒛-𝑶𝒘𝒏𝒆𝒓𝑩𝒐𝒕'
+global.namebot = 'alvinbotz-𝑴𝒅'
+global.nameown = 'Alvinnn-𝑶𝒘𝒏𝒆𝒓𝑩𝒐𝒕'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282223011829', 'Sewa Bot', true],
+  ['6285852939370', 'Sewa Bot', true],
   ['6282223011829', 'Owner Gweh', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
@@ -114,13 +114,13 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 𝑨𝑫𝑰𝑩𝑶𝑻-𝑴𝑫 」' //Main Watermark
+global.wm = '                「 Alvinnbotz-𝑴𝑫 」' //Main Watermark
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Papa-Chan ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ 𝑨𝒅𝒊𝑩𝒐𝒕-𝑴𝑫'
+global.wm3 = '⫹⫺ Alvinnbotz-𝑴𝑫'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | 𝑩𝒚 𝑨𝒅𝒊𝑮𝒂𝒏𝒛-𝑶𝒇𝒄`
-global.author = '                「 𝑨𝑫𝑰𝑩𝑶𝑻-𝑴𝑫あ⁩ 」'
+global.titlebot = `⫹⫺ WhatsApp Bot | by alvinn`
+global.author = '                「 Alvinnbotzあ⁩ 」'
 
 
 /*============== LOGO ==============*/
