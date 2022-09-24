@@ -69,7 +69,7 @@ global.nameown = 'AL Surabaya'
 /*============== STAFF ==============*/
 global.owner = [
   ['6282223011829', 'Al Surabaya', true],
-  ['6282223011829', 'AL Surabaya', true] //Ganti jd nomormu sama Namamu
+  ['6285852939370', 'AL Surabaya', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
